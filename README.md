@@ -1,15 +1,15 @@
 <h2 align="left">About me:</h2>
 
-<h4 align="left">Serhii. Data-science and PET projects for Raspberry Pi.</h4>
+<h4 align="left">Serhii. Data-analytics and PET projects for Raspberry Pi.</h4>
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Farckron&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api?username=Farckron&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=86400"
     height="150"
     alt="stats graph"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Farckron&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farckron&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=86400"
     height="150"
     alt="languages graph"
   />
@@ -41,26 +41,26 @@
 
 <div align="left">
   <!-- 1) Email -->
-  <a href="mailto:serhiimxn@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email badge" />
+  <a href="mailto:serhiimxn@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=EMAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email" />
   </a>
 
   <!-- 2) Telegram -->
-  <a href="https://t.me/Skyxmd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram badge" />
+  <a href="https://t.me/Skyxmd">
+    <img src="https://img.shields.io/static/v1?message=TELEGRAM&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram" />
   </a>
 
   <!-- 3) LinkedIn -->
-  <a href="https://www.linkedin.com/in/serhii-voitov-41a319269/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin badge" />
+  <a href="https://www.linkedin.com/in/serhii-voitov-41a319269/">
+    <img src="https://img.shields.io/static/v1?message=LINKEDIN&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
   </a>
 
   <!-- 4) Instagram -->
-  <a href="https://www.instagram.com/mxn_ukr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram badge" />
+  <a href="https://www.instagram.com/mxn_ukr/">
+    <img src="https://img.shields.io/static/v1?message=INSTAGRAM&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram" />
   </a>
 </div>
 
 <br clear="both" />
 
-<img src="https://raw.githubusercontent.com/Farckron/Farckron/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Farckron/Farckron/output/github-snake-dark.svg" alt="Snake animation" />
