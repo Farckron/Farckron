@@ -2,17 +2,12 @@
 
 <h4 align="left">Serhii. Data-analytics and PET projects for Raspberry Pi.</h4>
 
+<!-- Stats removed, but space kept -->
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Farckron&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=86400"
-    height="150"
-    alt="stats graph"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farckron&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=86400"
-    height="150"
-    alt="languages graph"
-  />
+  <br />
+  <br />
+  <br />
+  <br />
 </div>
 
 <div align="left">
