@@ -1,10 +1,11 @@
 <h2 align="left">About me:</h2>
-
+<div align="center">
+  <br />
+</div>
 <h4 align="left">Serhii. Data-analytics and PET projects for Raspberry Pi.</h4>
 
 <!-- Stats removed, but space kept -->
 <div align="center">
-  <br />
   <br />
 </div>
 
@@ -30,6 +31,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo" />
+</div>
+
+<div align="center">
+  <br />
 </div>
 
 <div align="left">
