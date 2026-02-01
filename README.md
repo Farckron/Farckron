@@ -1,7 +1,4 @@
 <h2 align="left">About me:</h2>
-<div align="center">
-  <br />
-</div>
 <h4 align="left">Serhii. Data-analytics and PET projects for Raspberry Pi.</h4>
 
 <!-- Stats removed, but space kept -->
