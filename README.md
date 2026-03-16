@@ -1,5 +1,5 @@
 <h2 align="left">About me:</h2>
-<h4 align="left">Serhii. Data-analytics and PET projects for Raspberry Pi.</h4>
+<h4 align="left">Serhii. Studying computer science and Economics. Doing self-hosted infrastructure for myself in the free time. </h4>
 
 <!-- Stats removed, but space kept -->
 <div align="center">
