@@ -15,7 +15,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailscale" height="30" alt="tailscale logo"/>
+  <img src="https://avatars.githubusercontent.com/u/48932923?s=200&v=4" height="30" alt="tailscale logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo" />
   <img width="12" />
